@@ -56,25 +56,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/full-stack.png" width="64" height="64" alt="Full Stack"/>
-      <br><b>Full Stack</b>
-      <br><sub>React · Next.js · Node.js · REST & GraphQL APIs</sub>
+    <td align="left" width="50%" valign="top">
+      <h3>🧩 Full Stack</h3>
+      <p>React · Next.js · Node.js · REST & GraphQL APIs</p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64" height="64" alt="AI"/>
-      <br><b>AI & Data</b>
-      <br><sub>PyTorch · LLMs · NLP · Computer Vision · ETL</sub>
+    <td align="left" width="50%" valign="top">
+      <h3>🤖 AI & Data</h3>
+      <p>PyTorch · LLMs · NLP · Computer Vision · ETL</p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/devops.png" width="64" height="64" alt="DevOps"/>
-      <br><b>DevOps & MLOps</b>
-      <br><sub>Docker · Kubernetes · CI/CD · MLflow · Monitoring</sub>
+  </tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>⚙️ DevOps & MLOps</h3>
+      <p>Docker · Kubernetes · CI/CD · MLflow · Monitoring</p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/cloud.png" width="64" height="64" alt="Cloud"/>
-      <br><b>Cloud</b>
-      <br><sub>AWS · GCP · Azure · Terraform · Serverless</sub>
+    <td align="left" width="50%" valign="top">
+      <h3>☁️ Cloud</h3>
+      <p>AWS · GCP · Azure · Terraform · Serverless</p>
     </td>
   </tr>
 </table>
