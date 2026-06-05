@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,25:302b63,50:24243e,75:0f3460,100:16213e&text=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Data%20%7C%20Cloud&reversal=true&section=header&fontAlignY=40&fontSize=30&textBg=false&animation=twinkling&fontColor=FFFFFF" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:d5f2ce,13:caf0bc,25:aae897,38:99e384,50:56d235,63:52c035,75:4fb733,88:44942c,100:3a7926&text=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Data%20%7C%20Cloud&reversal=true&section=header&fontAlignY=40&fontSize=30&textBg=false&animation=twinkling&fontColor=FFFFFF" alt="Header" width="100%" />
 </div>
 
 <br/>
@@ -339,18 +339,10 @@
 
 <hr />
 
-<div align="center">
-
-  <a href="https://github.com/topdevbest" target="_blank"><img alt="GitHub Stars" height="25" src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=BCF7CD&label=GitHub%20Stars&labelColor=115128&style=flat&query=%24.stars&color=BCF7CD&url=https://api.github-star-counter.workers.dev/user/topdevbest" /></a>
-  <a href="https://github.com/topdevbest" target="_blank"><img alt="Profile Views" height="26" src="https://visitcount.itsvg.in/api?id=topdevbest&label=Profile%20Views&color=6&pretty=true" /></a>
-  <a href="https://github.com/topdevbest" target="_blank"><img alt="GitHub Forks" height="25" src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=BCF7CD&label=GitHub%20Forks&labelColor=115128&style=flat&query=%24.forks&color=BCF7CD&url=https://api.github-star-counter.workers.dev/user/topdevbest" /></a>
-
-</div>
-
 <h2 align="center">
   Building intelligent systems in the cloud since 2012 ☁️🤖
 </h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,25:302b63,50:24243e,75:0f3460,100:16213e&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:d5f2ce,13:caf0bc,25:aae897,38:99e384,50:56d235,63:52c035,75:4fb733,88:44942c,100:3a7926&section=footer" alt="Footer" width="100%" />
 </div>
